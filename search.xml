@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>数学公式测试</title>
+      <link href="/2024/09/26/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95/"/>
+      <url>/2024/09/26/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight latex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">\begin</span>&#123;align*&#125;</span><br><span class="line"><span class="keyword">\int</span><span class="built_in">_</span>&#123;0&#125;<span class="built_in">^</span>&#123;<span class="keyword">\pi</span>&#125; <span class="keyword">\sin</span>(x) <span class="keyword">\,</span> dx <span class="built_in">&amp;</span>= <span class="keyword">\int</span><span class="built_in">_</span>&#123;0&#125;<span class="built_in">^</span>&#123;<span class="keyword">\frac</span>&#123;<span class="keyword">\pi</span>&#125;&#123;2&#125;&#125; <span class="keyword">\sin</span>(x) <span class="keyword">\,</span> dx + <span class="keyword">\int</span><span class="built_in">_</span>&#123;<span class="keyword">\frac</span>&#123;<span class="keyword">\pi</span>&#125;&#123;2&#125;&#125;<span class="built_in">^</span>&#123;<span class="keyword">\pi</span>&#125; <span class="keyword">\sin</span>(x) <span class="keyword">\,</span> dx <span class="keyword">\\</span></span><br><span class="line"><span class="built_in">&amp;</span>= -<span class="keyword">\cos</span>(x) <span class="keyword">\Big</span>|<span class="built_in">_</span>&#123;0&#125;<span class="built_in">^</span>&#123;<span class="keyword">\frac</span>&#123;<span class="keyword">\pi</span>&#125;&#123;2&#125;&#125; + (-<span class="keyword">\cos</span>(x) <span class="keyword">\Big</span>|<span class="built_in">_</span>&#123;<span class="keyword">\frac</span>&#123;<span class="keyword">\pi</span>&#125;&#123;2&#125;&#125;<span class="built_in">^</span>&#123;<span class="keyword">\pi</span>&#125;) <span class="keyword">\\</span></span><br><span class="line"><span class="built_in">&amp;</span>= 2</span><br><span class="line"><span class="keyword">\end</span>&#123;align*&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇文章</title>
       <link href="/2024/09/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2024/09/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
